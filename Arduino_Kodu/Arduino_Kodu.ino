@@ -3,8 +3,8 @@
 Servo myServo;
 
 int servoPin = 7;
-int minAngle = 15;
-int maxAngle = 165;
+int minAngle = 30;
+int maxAngle = 150;
 int currentAngle;
 
 int speed = 20;
